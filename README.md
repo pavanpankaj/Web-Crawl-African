@@ -1,5 +1,5 @@
 # Web-Crawl-African
-Web Crawl African is a collection of African langauge Multilingual parallel corpus in 16 langauges covering  Afrikaans - afr, Lingala - lin, Swati - ssw
+Web Crawl African is a collection of African langauge Multilingual parallel corpus in 16 langauges covering  Afrikaans - afr, Lingala - lin, Swati - ssw,
 Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oromo - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Kinyarwanda - kin, Swahili - swh, Zulu - zul. 
 
 It Covers variety of domains political, General, songs and God.

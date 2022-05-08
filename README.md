@@ -2,6 +2,8 @@
 Web Crawl African is a collection of African langauge Multilingual parallel corpus in 16 langauges covering  Afrikaans - afr, Lingala - lin, Swati - ssw,
 Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oromo - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Kinyarwanda - kin, Swahili - swh, Zulu - zul. 
 
+It is a part of Large Scale Multilingual African Shared task Organized by WMT 2022. Thanks for Organizers for hosting the shared task. 
+
 It Covers variety of domains political, General, songs and God.
 
 # Dataset Format
@@ -11,7 +13,14 @@ Source language file : web-crawl-african-{src-lang}-{tgt-lang}.{src-lang}
 
 Target langauge file : web-crawl-african-{src-lang}-{tgt-lang}.{tgt-lang}
 
+Example:  
+         
+         For Afrikaans, Amharic parallel corpus 
+         Source language file: web-crawl-african-afr-amh.afr
+         Target language file: web-crawl-african-afr-amh.amh
+
 # Statistics:
+
 Langauge | #afr | #amh | #nya | #en | #hau | #ibo | #kin | #orm | #swh | #ssw | #tsn | #lin | #lug | #xho |#tso | #yor |#zul |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- | --- | --- | --- |--- |--- |--- |
 afr | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 270 | 271 | 272 | 273 | 274
@@ -33,6 +42,8 @@ yor | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 270 | 27
 zul | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 270 | 271 | 272 | 273 | 274
 
 # Models:
+
+Models will be available after the shared task.
 
 # Updates:
 
@@ -57,6 +68,8 @@ Prashanth Banjare
 # License:
 
 # Citation
+
+Citation will be available after the shared task
 
 # Note:
 

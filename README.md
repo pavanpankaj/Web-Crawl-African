@@ -54,14 +54,16 @@ Sivabhavani J
 
 Biswajit Paul
 
+Abhinav Mishra
+
+Prashanth Banjare
+
 {others}
 
 # Acknowledgments
 Director
 
-Abhinav Mishra
 
-Prashanth Banjare
 
 {others}
 

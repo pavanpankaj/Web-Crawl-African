@@ -7,7 +7,12 @@ It is a part of Large Scale Multilingual African Shared task Organized by WMT 20
 It covers variety of domains political, general, songs and god.
 
 # Dataset Format
-Naming convention for Source Language, Target Language parallel corpus: 
+
+**African language, English parallel corpus**: Parallel corpus is located at data/African_eng_parallel_corpus
+
+**African language, African language parallel corpus**: Parallel corpus is located at data/non_eng_direction
+
+Naming convention for src-lang, tgt-lang parallel corpus: 
 
 Source language file : webcrawl-african-{src-lang}-{tgt-lang}.{src-lang}
 

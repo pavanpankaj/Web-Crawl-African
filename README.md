@@ -1,16 +1,15 @@
-# Web-Crawl-African
-Web Crawl African is a collection of African langauge Multilingual parallel corpus in 15 langauges covering  Afrikaans - afr, Lingala - lin, Swati - ssw,
-Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oroma - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Swahili - swh, Zulu. 
+# WebCrawl African
+WebCrawl African is a collection of African Multilingual parallel corpora comprising of 6.95 lakhs (approx) sentence pairs, covering 15 African languages plus English and 73 language pairs. African languages covered include Afrikaans - afr, Lingala - lin, Swati - ssw, Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oroma - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Swahili - swh, Zulu. 
 
-It is a part of Large Scale Multilingual African Shared task Organized by WMT 2022. Thanks to Organizers for hosting the shared task. 
+This corpora is submitted as part of Large Scale Multilingual African Shared task Organized by WMT 2022. Thanks to Organizers for hosting the shared task. 
 
-It covers variety of domains political, general, songs and god.
+It covers variety of domains political, stories, religious and songs. Corpora have sentences covering both formal and informal writing styles. 
 
 # Dataset Format
 
-**African language, English parallel corpus**: Parallel corpus is located at data/African_eng_parallel_corpus
+**African language, English parallel corpus**: Parallel corpus is located at data/African_English_parallel_corpora
 
-**African language, African language parallel corpus**: Parallel corpus is located at data/non_eng_direction
+**African language, African language parallel corpus**: Parallel corpus is located at data/African_African_parallel_corpora
 
 Naming convention for src-lang, tgt-lang parallel corpus: 
 
@@ -26,7 +25,7 @@ Example:
 
 # Statistics:
 
-Table 1: Statistics of parallel corpus {column : source-language}, english (Value is in multiple of thousand's(K))
+Table 1: Statistics of African-English parallel corpus {column : source-language} (Value is in multiple of thousand's(K))
 
 Langauge | #en |
 --- | --- | 
@@ -49,7 +48,7 @@ zul | 50.7 |
 Total | 316 |
 
 
-Table 2: Statistics of parallel corpus from {column: source-language}, {row: target-language} (Value is in multiple of thousand's(K))
+Table 2: Statistics of African-African parallel corpus from {column: source-language}, {row: target-language} (Value is in multiple of thousand's(K))
 
 Language |Afrikaans | Amharic | Chichewa | Hausa | Igbo | Luganda | Oroma | Setswana | Swahili | Swati | Xhosa | Xitsonga | Yoruba | Zulu
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- | --- | --- | --- |
@@ -73,7 +72,7 @@ Total | 144.100   | 16.328	| 6.632	| 20.250	| 1.327	| 13.699	| 22.336	| 87.933 |
 
 # Models:
 
-Models will be available after the shared task.
+Models will be available soon.
 
 # Updates:
 
@@ -88,17 +87,23 @@ Abhinav Mishra
 
 Prashant Banjare
 
-{others}
-
 # Acknowledgments
-
 Prasanna Kumar K R
 
-Director
+Chitra Viswanathan
+
+**Source Websites** 
+
+1.https://nalibali.org/
+
+2.https://www.gov.za/
+
+3.https://www.gotquestions.org/
+
+4.https://africangospellyrics.com/
 
 
 
-{others}
 
 # License:
 
@@ -114,9 +119,10 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Citation
+https://github.com/pavanpankaj/Web-Crawl-African
 
-Citation will be available after the shared task
 
 # Note:
+Data sources used for this corpora are duly acknowledged under the Acknowledgments section above. Data is collected following the source website usage/copyright T&C. We do not own any of the text. 
 
 

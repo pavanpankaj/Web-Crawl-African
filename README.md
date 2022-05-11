@@ -33,7 +33,7 @@ afr | 61.8 |
 amh | 4 |
 nya | 1.4 |
 hau | 5.6 |
-ibo | 3.2 |
+ibo | 1.1 |
 orm | 7 |
 swh | 62 |
 ssw | 14.2 |

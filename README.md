@@ -27,7 +27,7 @@ Example:
 
 Table 1: Statistics of African-English parallel corpus {column : source-language} (Value is in multiple of thousand's(K))
 
-Langauge | #en |
+African Language | #English |
 --- | --- | 
 afr | 61.8 |
 amh | 4 |
@@ -74,6 +74,7 @@ Total | 144.100   | 16.328	| 6.632	| 20.250	| 1.327	| 13.699	| 22.336	| 87.933 |
 Models will be available soon.
 
 # Updates:
+First Release (Web-Crawl-African V1.0) : 10th May 2022
 
 # Contributors:
 Pavanpankaj Vegi

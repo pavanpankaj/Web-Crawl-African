@@ -77,11 +77,11 @@ Models will be available soon.
 First Release (WebCrawl-African V1.0) : 10th May 2022
 
 # Contributors:
-Pavanpankaj Vegi
+Pavanpankaj Vegi (pavanpankaj333@gmail.com) 
 
 Sivabhavani J
 
-Biswajit Paul
+Biswajit Paul (biswajit07@gmail.com)
 
 Abhinav Mishra
 

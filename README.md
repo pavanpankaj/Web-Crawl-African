@@ -7,7 +7,7 @@ It covers variety of domains political, stories, religious and songs. Corpora ha
 
 # Dataset Format
 
-**African language, English parallel corpus**: Parallel corpus is located at data/African_English_parallel_corpora
+**African language, English parallel corpus**: Parallel corpus is located at data/African_English_parallel_corpora (data/African_English_parallel_corpora)
 
 **African language, African language parallel corpus**: Parallel corpus is located at data/African_African_parallel_corpora
 

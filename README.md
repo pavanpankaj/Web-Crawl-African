@@ -44,7 +44,7 @@ xho | 51.4 |
 tso | 24 |
 yor | 6.3 |
 zul | 50.7 |
-Total | 321 |
+Total | 320 |
 
 
 Table 2: Statistics of African-African parallel corpus from {column: source-language}, {row: target-language} (Value is in multiple of thousand's(K))

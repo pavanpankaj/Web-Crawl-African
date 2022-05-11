@@ -32,9 +32,8 @@ Langauge | #en |
 afr | 61.8 |
 amh | 4 |
 nya | 1.4 |
-hau | --- |
+hau | 5.6 |
 ibo | 3.2 |
-kin | --- |
 orm | 7 |
 swh | 62 |
 ssw | 14.2 |
@@ -45,7 +44,7 @@ xho | 51.4 |
 tso | 24 |
 yor | 6.3 |
 zul | 50.7 |
-Total | 316 |
+Total | 321 |
 
 
 Table 2: Statistics of African-African parallel corpus from {column: source-language}, {row: target-language} (Value is in multiple of thousand's(K))

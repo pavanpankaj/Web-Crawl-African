@@ -1,5 +1,5 @@
 # WebCrawl African
-WebCrawl African is a collection of African Multilingual parallel corpora comprising of 6.95 lakhs (approx) sentence pairs, covering 15 African languages plus English and 73 language pairs. African languages covered include Afrikaans - afr, Lingala - lin, Swati - ssw, Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oroma - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Swahili - swh, Zulu. 
+WebCrawl African is a collection of African Multilingual parallel corpora comprising of 6.95 lakhs (approx) sentence pairs, covering 15 African languages plus English and 73 language pairs. African languages covered include Afrikaans - afr, Lingala - lin, Swati - ssw, Amharic - amh, Luganda - lug, Tswana - tsn, Chichewa - nya, Hausa - hau, Oroma - orm, Xhosa - xho, Igbo - ibo, Xitsonga - tso, Yoruba - yor, Swahili - swh, Zulu - zul. 
 
 This corpora is submitted as part of Large Scale Multilingual African Shared task Organized by WMT 2022. Thanks to Organizers for hosting the shared task. 
 
@@ -7,7 +7,7 @@ It covers variety of domains political, stories, religious and songs. Corpora ha
 
 # Dataset Format
 
-**African language, English parallel corpus**: Parallel corpus is located at [data/African_English_parallel_corpora] (data/African_English_parallel_corpora)
+**African language, English parallel corpus**: Parallel corpus is located at data/African_English_parallel_corpora
 
 **African language, African language parallel corpus**: Parallel corpus is located at data/African_African_parallel_corpora
 
@@ -74,7 +74,7 @@ Total | 144.100   | 16.328	| 6.632	| 20.250	| 1.327	| 13.699	| 22.336	| 87.933 |
 Models will be available soon.
 
 # Updates:
-First Release (Web-Crawl-African V1.0) : 10th May 2022
+First Release (WebCrawl-African V1.0) : 10th May 2022
 
 # Contributors:
 Pavanpankaj Vegi

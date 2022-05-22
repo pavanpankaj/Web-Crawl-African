@@ -96,7 +96,7 @@ Chitra Viswanathan
 
 1.https://nalibali.org/
 
-2.https://www.gov.za/ (posts/articles collected upto 2016)
+2.https://www.gov.za/ (posts/articles collected from 2016)
 
 3.https://www.gotquestions.org/
 

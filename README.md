@@ -29,22 +29,22 @@ Table 1: Statistics of African-English parallel corpus {column : source-language
 
 African Language | #English |
 --- | --- | 
-afr | 61.8 |
-amh | 4 |
+afr | 62.2 |
+amh | 4.6 |
 nya | 1.4 |
 hau | 5.6 |
 ibo | 1.1 |
-orm | 7 |
-swh | 62 |
-ssw | 14.2 |
-tsn | 25.3 |
+orm | 7.0 |
+swh | 64.5 |
+ssw | 14.4 |
+tsn | 25.9 |
 lin | 1.1 |
 lug | 3.6 |
-xho | 51.4 |
-tso | 24 |
+xho | 46.2 |
+tso | 24.4 |
 yor | 6.3 |
-zul | 50.7 |
-Total | 320 |
+zul | 50.9 |
+Total | 319.7 |
 
 
 Table 2: Statistics of African-African parallel corpus from {column: source-language}, {row: target-language} (Value is in multiple of thousand's(K))

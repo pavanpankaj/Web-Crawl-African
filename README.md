@@ -73,35 +73,6 @@ Total | 144.100   | 16.328	| 6.632	| 20.250	| 1.327	| 13.699	| 22.336	| 87.933 |
 
 Models will be available soon.
 
-# Updates:
-First Release (WebCrawl-African V1.0) : 10th May 2022
-
-# Contributors:
-Pavanpankaj Vegi (pavanpankaj333@gmail.com) 
-
-Sivabhavani J
-
-Biswajit Paul (biswajit07@gmail.com)
-
-Abhinav Mishra
-
-Prashant Banjare
-
-# Acknowledgments
-Prasanna Kumar K R
-
-Chitra Viswanathan
-
-**Source Websites** 
-
-1.https://nalibali.org/
-
-2.https://www.gov.za/ (posts/articles collected from 2016 onwards)
-
-3.https://www.gotquestions.org/
-
-4.https://africangospellyrics.com/
-
 # Effect of Inclusion of WebCrawl African:
 We trained NMT model with and without inclusion of WebCrawl African Corpora. Results are given in below table
 
@@ -132,6 +103,37 @@ tso | 24.32 | 21.72 |
 yor | 15.38 | 15.38 |
 zul | 33.4 | 33.79 |
 Avg | 22.39 | 22.50 |
+
+
+# Updates:
+First Release (WebCrawl-African V1.0) : 10th May 2022
+
+# Contributors:
+Pavanpankaj Vegi (pavanpankaj333@gmail.com) 
+
+Sivabhavani J
+
+Biswajit Paul (biswajit07@gmail.com)
+
+Abhinav Mishra
+
+Prashant Banjare
+
+# Acknowledgments
+Prasanna Kumar K R
+
+Chitra Viswanathan
+
+**Source Websites** 
+
+1.https://nalibali.org/
+
+2.https://www.gov.za/ (posts/articles collected from 2016 onwards)
+
+3.https://www.gotquestions.org/
+
+4.https://africangospellyrics.com/
+
 
 
 # License:

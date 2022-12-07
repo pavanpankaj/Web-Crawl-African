@@ -3,7 +3,13 @@ WebCrawl African is a collection of African Multilingual parallel corpora compri
 
 This corpora is submitted as part of Large Scale Multilingual African Shared task Organized by WMT 2022. Thanks to Organizers for hosting the shared task. 
 
-It covers variety of domains political, stories, religious and songs. Corpora have sentences covering both formal and informal writing styles. 
+It covers variety of domains political, stories, religious and songs. Corpora have sentences covering both formal and informal writing styles.
+
+Futher details please go through the papers 
+
+1.https://aclanthology.org/2022.wmt-1.105
+
+2.https://aclanthology.org/2022.wmt-1.106
 
 # Dataset Format
 

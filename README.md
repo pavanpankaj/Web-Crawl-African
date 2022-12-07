@@ -80,7 +80,7 @@ Table 3: BLEU score with and without WebCrawl African parallel corpus
 
 African Language -> en | #W/O WebCrawl | #With WebCrawl |  
 --- | --- | --- | 
-afr | # 55.8 | 55.73 |
+afr | **55.8** | 55.73 |
 amh | #24.39 | 24.17 |
 nya | 22.45 | #22.66 |
 hau | 27.92 | #28.04 |

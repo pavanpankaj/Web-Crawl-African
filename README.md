@@ -119,7 +119,18 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Citation
-https://github.com/pavanpankaj/Web-Crawl-African
+@InProceedings{vegi-EtAl:2022:WMT1,
+  author    = {Vegi, Pavanpankaj  and  J, Sivabhavani  and  Paul, Biswajit  and  Mishra, Abhinav  and  Banjare, Prashant  and  K R, Prasanna Kumar  and  Viswanathan, Chitra},
+  title     = {WebCrawl African : A Multilingual Parallel Corpora for African Languages},
+  booktitle      = {Proceedings of the Seventh Conference on Machine Translation},
+  month          = {December},
+  year           = {2022},
+  address        = {Abu Dhabi},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {1076--1089},
+  abstract  = {WebCrawl African is a mixed domain multilingual parallel corpora for a pool of African languages compiled by ANVITA machine translation team of Centre for Artificial Intelligence and Robotics Lab, primarily for accelerating research on low-resource and extremely low-resource machine translation and is part of the submission to WMT 2022 shared task on Large-Scale Machine Translation Evaluation for African Languages under the data track. The corpora is compiled through web data mining and comprises 695K parallel sentences spanning 74 different language pairs from English and 15 African languages, many of which fall under low and extremely low resource categories. As a measure of corpora usefulness, a MNMT model for 24 African languages to English is trained by combining WebCrawl African corpora with existing corpus and evaluation on FLORES200 shows that inclusion of WebCrawl African corpora could improve BLEU score by 0.01-1.66 for 12 out of 15 African to English translation directions and even by 0.18-0.68 for the 4 out of 9 African to English translation directions which are not part of WebCrawl African corpora. WebCrawl African corpora includes more parallel sentences for many language pairs in comparison to OPUS public repository. This data description paper captures creation of corpora and results obtained along with datasheets. The WebCrawl African corpora is hosted on github repository.},
+  url       = {https://aclanthology.org/2022.wmt-1.105}
+}
 
 
 # Note:

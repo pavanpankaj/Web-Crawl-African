@@ -102,7 +102,36 @@ Chitra Viswanathan
 
 4.https://africangospellyrics.com/
 
+# Effect of Inclusion of WebCrawl African:
+We trained NMT model with and without inclusion of WebCrawl African Corpora. Results are given in below table
 
+Table 3: BLEU score with and without WebCrawl African parallel corpus
+
+African Language -> en | #W/O WebCrawl | #With WebCrawl |  
+--- | --- | --- | 
+afr | 55.8 | 55.73 |
+amh | 24.39 | 24.17 |
+nya | 22.45 | 22.66 |
+hau | 27.92 | 28.04 |
+ibo | 20.62 | 21.25
+kam | 9.24 | 9.49 |
+kin | 25.97 | 26.15 |
+lin | 19.34 | 19.56 |
+lug | 15.93 | 16.69 |
+luo | 17.34 | 16.96 |
+fuv | 5.62 | 5.82 |
+nso | 33.30 | 33.54 |
+orm | 11.27 | 12.13 |
+sna | 23.68 | 23.57 |
+som | 18.01 | 17.80 |
+swh | 41.01 | 41.19 |
+ssw | 23.68 | 25.34 |
+tsn | 22.66 | 23.08 |
+xho | 31.8 | 32.01 |
+tso | 24.32 | 21.72 | 
+yor | 15.38 | 15.38 |
+zul | 33.4 | 33.79 |
+Avg | 22.39 | 22.50 |
 
 
 # License:
@@ -119,18 +148,50 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Citation
+
 @InProceedings{vegi-EtAl:2022:WMT1,
+
   author    = {Vegi, Pavanpankaj  and  J, Sivabhavani  and  Paul, Biswajit  and  Mishra, Abhinav  and  Banjare, Prashant  and  K R, Prasanna Kumar  and  Viswanathan, Chitra},
+  
   title     = {WebCrawl African : A Multilingual Parallel Corpora for African Languages},
+  
   booktitle      = {Proceedings of the Seventh Conference on Machine Translation},
+  
   month          = {December},
+ 
   year           = {2022},
+  
   address        = {Abu Dhabi},
+  
   publisher      = {Association for Computational Linguistics},
+  
   pages     = {1076--1089},
+  
   url       = {https://aclanthology.org/2022.wmt-1.105}
+
 }
 
+@InProceedings{vegi-EtAl:2022:WMT2,
+  
+  author    = {Vegi, Pavanpankaj  and  J, Sivabhavani  and  Paul, Biswajit  and  K R, Prasanna Kumar  and  Viswanathan, Chitra},
+  
+  title     = {ANVITA-African: A Multilingual Neural Machine Translation System for African Languages},
+  
+  booktitle      = {Proceedings of the Seventh Conference on Machine Translation},
+  
+  month          = {December},
+  
+  year           = {2022},
+ 
+  address        = {Abu Dhabi},
+  
+  publisher      = {Association for Computational Linguistics},
+  
+  pages     = {1090--1097},
+  
+  url       = {https://aclanthology.org/2022.wmt-1.106}
+
+}
 
 # Note:
 Data sources used for this corpora are duly acknowledged under the Acknowledgments section above. Data is collected following the source website usage/copyright T&C. We do not own any of the text. 

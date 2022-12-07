@@ -104,6 +104,7 @@ yor | 15.38 | 15.38 |
 zul | 33.4 | 33.79 |
 Avg | 22.39 | 22.50 |
 
+For further details please visit the below articles
 
 # Updates:
 First Release (WebCrawl-African V1.0) : 10th May 2022
